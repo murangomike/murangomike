@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @murangomike
+- DATA SCIENTIST
 - 👀 I’m interested in data analysis, analytics and science.
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data analysis 
+- - 💞️ I’m looking to collaborate on data analysis 
 - 📫 How to reach me..(mikemurango00@gmail.com)
 
 <!---
